@@ -28,7 +28,7 @@ def get_apod_data(api_key, date):
             'media_date' : data.get('date'),
             'media_title' : data.get('title'),
             'media_url' : data.get('url'),
-            'media_explanetion': data.get('explanation'),
+            'media_explanation': data.get('explanation'),
             'media_type' : data.get('media_type'),
             
         }

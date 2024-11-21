@@ -1,5 +1,5 @@
 # Importing necessary libraries
-import numpy as np
+import numpy as np # type: ignore
 
 # Initializing a random 2D array
 np.random.seed(0) # Setting the inicial value
