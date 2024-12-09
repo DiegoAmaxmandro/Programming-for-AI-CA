@@ -14,11 +14,11 @@ To run the scripts and reproduce the results, you need the following:
   - pandas
   - matplotlib
   - seaborn
-- An API key for the APOD data feching operations
+- An API key for the APOD data fetching operations
 
-## configuring Environment Variable
+## Configuring Environment Variable
 
-On your terminal or command prompt you can run the code bellow to set up the envitomnt variable for teh API key:
+On your terminal or command prompt, you can run the code below to set up the environment variable for the API key:
 
 export API_KEY='your_api_key'
 
